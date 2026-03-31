@@ -1,0 +1,7 @@
+node_modules
+.env
+*.log
+firebase-env-value.txt
+*-firebase-adminsdk-*.json
+serviceAccountKey.json
+public/admin

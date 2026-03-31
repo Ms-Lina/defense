@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Inyuguti n'Inyajwi",
+    "displayName": "Inyuguti n'Inyajwi",
+    "order": 0,
+    "color": "#2D9B5F",
+    "icon": "🔤",
+    "description": "Menya inyuguti z'inyajwi na z'inkonsonanti mu Kinyarwanda",
+    "lessonCount": 2,
+    "totalDuration": 33,
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "tags": [
+      "inyuguti",
+      "inyajwi",
+      "gusoma",
+      "kwandika"
+    ]
+  },
+  {
+    "name": "Imirongo n'Imyanya",
+    "displayName": "Imirongo n'Imyanya",
+    "order": 1,
+    "color": "#FFB84D",
+    "icon": "🧭",
+    "description": "Menya imiringo n'imyanya itandukanye",
+    "lessonCount": 2,
+    "totalDuration": 40,
+    "difficulty": "beginner",
+    "prerequisites": [
+      "Imirongo Yegeranye: Ibumoso na Iburyo"
+    ],
+    "tags": [
+      "imirongo",
+      "imyanya",
+      "guhera",
+      "ubwenge"
+    ]
+  },
+  {
+    "name": "Inkonsonanti",
+    "displayName": "Inkonsonanti",
+    "order": 2,
+    "color": "#4CAF78",
+    "icon": "🔡",
+    "description": "Menya inyuguti z'inkonsonanti mu Kinyarwanda",
+    "lessonCount": 2,
+    "totalDuration": 40,
+    "difficulty": "beginner",
+    "prerequisites": [
+      "Inyuguti n'Inyajwi: A, E, I, O, U"
+    ],
+    "tags": [
+      "inkonsonanti",
+      "inyuguti",
+      "gusoma",
+      "kwandika"
+    ]
+  },
+  {
+    "name": "Amagambo",
+    "displayName": "Amagambo",
+    "order": 3,
+    "color": "#2196F3",
+    "icon": "📝",
+    "description": "Menya gukora amagambo ukoresha ibyondo",
+    "lessonCount": 2,
+    "totalDuration": 50,
+    "difficulty": "intermediate",
+    "prerequisites": [
+      "Inyuguti n'Inyajwi: A, E, I, O, U",
+      "Ibyondo: Ma, Me, Mi, Mo, Mu"
+    ],
+    "tags": [
+      "amagambo",
+      "ibyondo",
+      "gukora",
+      "gusoma"
+    ]
+  },
+  {
+    "name": "Imibare",
+    "displayName": "Imibare",
+    "order": 4,
+    "color": "#FF9800",
+    "icon": "🔢",
+    "description": "Menya imibare no gukora imibare",
+    "lessonCount": 3,
+    "totalDuration": 80,
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "tags": [
+      "imibare",
+      "kubara",
+      "gukora",
+      "ubwenge"
+    ]
+  },
+  {
+    "name": "Amashusho n'Amabara",
+    "displayName": "Amashusho n'Amabara",
+    "order": 5,
+    "color": "#9C27B0",
+    "icon": "🎨",
+    "description": "Menya imishusho n'amabara y'ibanze",
+    "lessonCount": 2,
+    "totalDuration": 33,
+    "difficulty": "beginner",
+    "prerequisites": [],
+    "tags": [
+      "imishusho",
+      "amabara",
+      "kumenya",
+      "ubwenge"
+    ]
+  }
+]

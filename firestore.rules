@@ -1,0 +1,83 @@
+rules_version = '2';
+
+// MenyAI – Firestore security rules for the overall project.
+// Backend (Admin SDK) bypasses these; rules apply to direct client access (e.g. mobile Firestore SDK).
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // -------------------------------------------------------------------------
+    // Public / catalog data (read-only for authenticated users; writes via backend only)
+    // -------------------------------------------------------------------------
+
+    match /lessons/{lessonId} {
+      allow read: if request.auth != null;
+      allow write: if false;
+    }
+
+    match /practice/{practiceId} {
+      allow read: if request.auth != null;
+      allow write: if false;
+    }
+
+    // -------------------------------------------------------------------------
+    // Legacy progress (top-level): userId-scoped doc and subcollection history
+    // -------------------------------------------------------------------------
+
+    match /progress/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      match /history/{lessonId} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+
+    // -------------------------------------------------------------------------
+    // User profile (editable by owner)
+    // -------------------------------------------------------------------------
+
+    match /userProfiles/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // -------------------------------------------------------------------------
+    // Per-user data under users/{uid}/... (written by backend on Ohereza / submit)
+    // Lesson completion: users/{uid}/lessonHistory/{lessonId}, users/{uid}/progress/overall, users/{uid}/achievements/{lessonId}
+    // -------------------------------------------------------------------------
+
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      // Lesson completion & statistics (backend POST /api/lessons/:id/submit)
+      match /lessonHistory/{lessonId} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+      // Overall progress & streak (backend updateUserProgress)
+      match /progress/{docId} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+      match /practiceHistory/{docId} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+      // Achievements (e.g. lesson_completed) written when user passes a lesson
+      match /achievements/{docId} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+
+    // -------------------------------------------------------------------------
+    // Backend-only (no direct client access)
+    // -------------------------------------------------------------------------
+
+    match /aiChatLogs/{logId} {
+      allow read, write: if false;
+    }
+
+    // Optional: system/config used by backend or admin scripts
+    match /system/{docId} {
+      allow read, write: if false;
+    }
+    match /modules/{moduleId} {
+      allow read: if request.auth != null;
+      allow write: if false;
+    }
+  }
+}

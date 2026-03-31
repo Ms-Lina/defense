@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973511634165",
+    "project_id": "menyai-27cfc",
+    "storage_bucket": "menyai-27cfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973511634165:android:1fce7b24de7995550569bc",
+        "android_client_info": {
+          "package_name": "com.menyai.kwigarwanda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCybgVvn-UjlYPItthJhbWlxZKU0znUpm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "menyai-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MenyAI backend: Node.js + Express, Firebase (Auth + Firestore), OpenAI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "ai:health": "node scripts/ai-cli.js health",
+    "ai:chat": "node scripts/ai-cli.js chat",
+    "token:get": "node scripts/firebase-token-cli.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "firebase-admin": "^12.0.0",
+    "openai": "^4.52.0"
+  }
+}

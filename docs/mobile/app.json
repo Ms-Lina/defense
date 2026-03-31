@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "MenyAI",
+    "slug": "menyai-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/MenyAI-Logo.png",
+    "userInterfaceStyle": "light",
+    "scheme": "menyai",
+    "splash": {
+      "image": "./assets/MenyAI-Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2D9B5F"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.menyai.kwigarwanda"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/MenyAI-Logo.png",
+        "backgroundColor": "#2D9B5F"
+      },
+      "package": "com.menyai.kwigarwanda"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-build-properties"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "53ba6a78-b338-4fb0-b4f5-4964663f9607"
+      },
+      "expoFontTimeout": 15000
+    }
+  }
+}

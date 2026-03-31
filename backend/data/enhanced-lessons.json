@@ -1,0 +1,1819 @@
+[
+  {
+    "id": "CUETtYGNZuPOb7vIh5Vk",
+    "title": "🔤 Inyuguti n'Inyajwi: A, E, I, O, U",
+    "duration": "10 min",
+    "level": "1",
+    "order": 1,
+    "description": "Uyu murongo utegura kumenya no gusoma no kwandika inyuguti z'inyajwi za Kinyarwanda. Uzamenya ijwi rya buri nyuguti no kuzisobanura.",
+    "difficulty": "Beginner",
+    "enabled": true,
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "activities": [
+      {
+        "correctAnswer": "A",
+        "prompt": "Andika inyuguti ya mbere",
+        "id": "act1",
+        "type": "typing",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: A",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 1,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "options": [
+          "Enye",
+          "Abana",
+          "Imana",
+          "Umuuntu"
+        ],
+        "correctAnswer": "Enye",
+        "id": "act2",
+        "type": "mc",
+        "question": "Ni irihe jambo rishingiye kuri E?",
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Enye\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 2,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      }
+    ],
+    "createdAt": "2026-02-22T14:11:48.792Z",
+    "estimatedDuration": 15,
+    "difficultyLevel": "beginner",
+    "prerequisites": [],
+    "nextLesson": {
+      "id": "aAWaiZFGC7LN3hzeeMhk",
+      "title": "Imirongo Yegeranye",
+      "order": 1
+    },
+    "subtitle": "Menya inyuguti z'inyajwi mu Kinyarwanda",
+    "objectives": [
+      "Kwamenya inyuguti 5 z'inyajwi: A, E, I, O, U",
+      "Kwumva ijwi rya buri nyuguti y'inyajwi",
+      "Kwandika neza inyuguti z'inyajwi",
+      "Gusesengura inyuguti z'inyajwi muri ijwi"
+    ],
+    "learningOutcomes": {
+      "cognitive": "Kwamenya no gukurikirana inyuguti z'inyajwi",
+      "psychomotor": "Kwandika no gusoma inyuguti z'inyajwi",
+      "affective": "Kunda gukoresha inyuguti z'inyajwi"
+    },
+    "module": "Inyuguti n'Inyajwi",
+    "metadata": {
+      "enhanced": true,
+      "enhancedAt": "2026-03-01T10:16:41.965Z",
+      "version": "2.0",
+      "tags": [
+        "Inyuguti n'Inyajwi",
+        "beginner",
+        "enhanced",
+        "interactive",
+        "guided"
+      ],
+      "assessmentStrategy": {
+        "type": "formative",
+        "weight": "participation",
+        "feedback": "immediate",
+        "retryAttempts": 3
+      },
+      "adaptiveContent": {
+        "difficultyAdjustment": true,
+        "personalizedHints": true,
+        "scaffolding": true,
+        "timeBasedFeedback": true
+      },
+      "engagementFeatures": {
+        "progressVisualization": true,
+        "achievementUnlocking": true,
+        "streakTracking": true,
+        "gamification": true
+      }
+    }
+  },
+  {
+    "id": "aAWaiZFGC7LN3hzeeMhk",
+    "order": 1,
+    "module": "Imirongo n'Imyanya",
+    "moduleColor": "#4CAF78",
+    "title": "🧭 Imirongo Yegeranye: Ibumoso na Iburyo",
+    "subtitle": "Menya imiringo yegeranye",
+    "description": "Uyu murongo utegura kumenya imiringo yegeranye: ibumoso na iburyo. Uzajya uzi guhera no kureka aho byombi bihera.",
+    "duration": "8 min",
+    "level": "1",
+    "difficulty": "Beginner",
+    "enabled": true,
+    "videoUrl": "",
+    "activities": [
+      {
+        "id": "a1",
+        "type": "mc",
+        "question": "Ni ikihe gikoresho gikoreshwa mu gukora imirongo?",
+        "correctAnswer": "Ikaramu",
+        "options": [
+          "Ikaramu",
+          "Ingohe",
+          "Inzira",
+          "Ikaye"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Ikaramu\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 1,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a2",
+        "type": "typing",
+        "prompt": "Andika ijambo risobanura umurongo uhagarara: '_____'",
+        "correctAnswer": "horizontal",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: horizontal",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 2,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a3",
+        "type": "mc",
+        "question": "Imirongo yegeranye igenda ute?",
+        "correctAnswer": "Ibumoso kugeza iburyo",
+        "options": [
+          "Ibumoso kugeza iburyo",
+          "Hejuru kugeza hasi",
+          "Igitama",
+          "Inziga"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Ibumoso kugeza iburyo\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 3,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      }
+    ],
+    "createdAt": "2026-02-22T17:58:57.589Z",
+    "estimatedDuration": 20,
+    "difficultyLevel": "beginner",
+    "prerequisites": [],
+    "nextLesson": {
+      "id": "C87BkNhocaW4N0fXLVA0",
+      "title": "Imirongo Ihagarara",
+      "order": 2
+    },
+    "objectives": [
+      "Kwamenya ibumoso na iburyo",
+      "Kwumva ijwi ry'imiringo yegeranye",
+      "Kwerekana ibumoso na iburyo",
+      "Gukoresha imiringo yegeranye mu buzima bwa buri munsi"
+    ],
+    "learningOutcomes": {
+      "cognitive": "Kwamenya imiringo n'imyanya",
+      "psychomotor": "Kwerekana no gukurikira amayera",
+      "affective": "Kunda gukoresha imiringo"
+    },
+    "metadata": {
+      "enhanced": true,
+      "enhancedAt": "2026-03-01T10:16:41.966Z",
+      "version": "2.0",
+      "tags": [
+        "Imirongo n'Imyanya",
+        "beginner",
+        "enhanced",
+        "interactive",
+        "guided"
+      ],
+      "assessmentStrategy": {
+        "type": "formative",
+        "weight": "participation",
+        "feedback": "immediate",
+        "retryAttempts": 3
+      },
+      "adaptiveContent": {
+        "difficultyAdjustment": true,
+        "personalizedHints": true,
+        "scaffolding": true,
+        "timeBasedFeedback": true
+      },
+      "engagementFeatures": {
+        "progressVisualization": true,
+        "achievementUnlocking": true,
+        "streakTracking": true,
+        "gamification": true
+      }
+    }
+  },
+  {
+    "id": "C87BkNhocaW4N0fXLVA0",
+    "order": 2,
+    "module": "Imirongo n'Imyanya",
+    "moduleColor": "#4CAF78",
+    "title": "🧭 Imirongo Ihagarara: Hejuru na Hasi",
+    "subtitle": "Menya imiringo ihagarara",
+    "description": "Uyu murongo utegura kumenya imiringo ihagarara: hejuru na hasi. Uzajya uzi guhera no kureka aho byombi bihera.",
+    "duration": "8 min",
+    "level": "1",
+    "difficulty": "Beginner",
+    "enabled": true,
+    "videoUrl": "",
+    "activities": [
+      {
+        "id": "a1",
+        "type": "mc",
+        "question": "Imirongo ihagarara igenda ute?",
+        "correctAnswer": "Hejuru kugeza hasi",
+        "options": [
+          "Hejuru kugeza hasi",
+          "Ibumoso kugeza iburyo",
+          "Igitama",
+          "Inziga"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Hejuru kugeza hasi\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 1,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a2",
+        "type": "typing",
+        "prompt": "Andika ijambo ku Cyongereza risobanura 'ihagarara':",
+        "correctAnswer": "vertical",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: vertical",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 2,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a3",
+        "type": "mc",
+        "question": "Mu nyuguti 'I', ni imirongo bingahe ihagarara?",
+        "correctAnswer": "Umwe",
+        "options": [
+          "Umwe",
+          "Ebyiri",
+          "Eshatu",
+          "Ine"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Umwe\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 3,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      }
+    ],
+    "createdAt": "2026-02-22T17:58:57.591Z",
+    "estimatedDuration": 20,
+    "difficultyLevel": "beginner",
+    "prerequisites": [
+      "Imirongo Yegeranye: Ibumoso na Iburyo"
+    ],
+    "nextLesson": {
+      "id": "RPXVgkWP1n8PCcO3AjbX",
+      "title": "Imirongo y'Igitama",
+      "order": 3
+    },
+    "objectives": [
+      "Kwamenya hejuru na hasi",
+      "Kwumva ijwi ry'imiringo ihagarara",
+      "Kwerekana hejuru na hasi",
+      "Gukoresha imiringo ihagarara mu buzima bwa buri munsi"
+    ],
+    "learningOutcomes": {
+      "cognitive": "Kwamenya imiringo ihagarara",
+      "psychomotor": "Kwerekana no gukurikira amayera",
+      "affective": "Kunda gukoresha imiringo"
+    },
+    "metadata": {
+      "enhanced": true,
+      "enhancedAt": "2026-03-01T10:16:41.966Z",
+      "version": "2.0",
+      "tags": [
+        "Imirongo n'Imyanya",
+        "beginner",
+        "enhanced",
+        "interactive",
+        "guided"
+      ],
+      "assessmentStrategy": {
+        "type": "formative",
+        "weight": "participation",
+        "feedback": "immediate",
+        "retryAttempts": 3
+      },
+      "adaptiveContent": {
+        "difficultyAdjustment": true,
+        "personalizedHints": true,
+        "scaffolding": true,
+        "timeBasedFeedback": true
+      },
+      "engagementFeatures": {
+        "progressVisualization": true,
+        "achievementUnlocking": true,
+        "streakTracking": true,
+        "gamification": true
+      }
+    }
+  },
+  {
+    "id": "JQUwdq2S70oqI4BlPFoy",
+    "order": 6,
+    "module": "Inyuguti n'Inyajwi",
+    "moduleColor": "#3B82F6",
+    "title": "🔤 Inyajwi za Kinyarwanda: A, E, I, O, U",
+    "subtitle": "Menya inyuguti z'inyajwi mu Kinyarwanda",
+    "description": "Uyu murongo utegura kumenya inyuguti z'inyajwi mu Kinyarwanda. Uzajya uzi kumva no kwandika inyuguti A, E, I, O, U.",
+    "duration": "12 min",
+    "level": "1",
+    "difficulty": "Beginner",
+    "enabled": true,
+    "videoUrl": "",
+    "activities": [
+      {
+        "id": "a1",
+        "type": "mc",
+        "question": "Ni izihe inyajwi (vowels) mu Kinyarwanda?",
+        "correctAnswer": "A E I O U",
+        "options": [
+          "A E I O U",
+          "B C D F G",
+          "M N P R S",
+          "H J K L Q"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"A E I O U\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 1,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a2",
+        "type": "typing",
+        "prompt": "Andika inyajwi eshanu zose mu Kinyarwanda:",
+        "correctAnswer": "A E I O U",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: A E I O U",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 2,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a3",
+        "type": "mc",
+        "question": "Ni irihe jambo rishingiye kuri inyajwi 'A'?",
+        "correctAnswer": "Amata",
+        "options": [
+          "Amata",
+          "Bakuru",
+          "Cifuzo",
+          "Dore"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Amata\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 3,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a4",
+        "type": "mc",
+        "question": "Mu ijambo 'INZU', inyajwi ni izihe?",
+        "correctAnswer": "I na U",
+        "options": [
+          "I na U",
+          "N na Z",
+          "I na Z",
+          "N na U"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"I na U\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 4,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      }
+    ],
+    "createdAt": "2026-02-22T17:58:57.592Z",
+    "estimatedDuration": 18,
+    "difficultyLevel": "beginner",
+    "prerequisites": [],
+    "nextLesson": {
+      "id": "y9zEEz2OahRL5LQxTAgR",
+      "title": "Inkonsonanti: B, D, G, K",
+      "order": 7
+    },
+    "objectives": [
+      "Kwamenya inyuguti z'inyajwi mu Kinyarwanda",
+      "Kwumva ijwi rya buri nyuguti y'inyajwi",
+      "Kwandika inyuguti z'inyajwi neza",
+      "Gusesengura inyuguti z'inyajwi muri ijwi"
+    ],
+    "learningOutcomes": {
+      "cognitive": "Kwamenya inyuguti z'inyajwi",
+      "psychomotor": "Kwandika inyuguti z'inyajwi",
+      "affective": "Kunda gusoma inyuguti z'inyajwi"
+    },
+    "metadata": {
+      "enhanced": true,
+      "enhancedAt": "2026-03-01T10:16:41.968Z",
+      "version": "2.0",
+      "tags": [
+        "Inyuguti n'Inyajwi",
+        "beginner",
+        "enhanced",
+        "interactive",
+        "guided"
+      ],
+      "assessmentStrategy": {
+        "type": "formative",
+        "weight": "participation",
+        "feedback": "immediate",
+        "retryAttempts": 3
+      },
+      "adaptiveContent": {
+        "difficultyAdjustment": true,
+        "personalizedHints": true,
+        "scaffolding": true,
+        "timeBasedFeedback": true
+      },
+      "engagementFeatures": {
+        "progressVisualization": true,
+        "achievementUnlocking": true,
+        "streakTracking": true,
+        "gamification": true
+      }
+    }
+  },
+  {
+    "id": "y9zEEz2OahRL5LQxTAgR",
+    "order": 7,
+    "module": "Inkonsonanti",
+    "moduleColor": "#3B82F6",
+    "title": "🔡 Inkonsonanti: B, D, G, K",
+    "subtitle": "Menya inyuguti z'inkonsonanti za mbere",
+    "description": "Uyu murongo utegura kumenya inyuguti z'inkonsonanti B, D, G, K. Uzajya uzi ijwi rizo no kuzikora mu magambo.",
+    "duration": "12 min",
+    "level": "1",
+    "difficulty": "Beginner",
+    "enabled": true,
+    "videoUrl": "",
+    "activities": [
+      {
+        "id": "a1",
+        "type": "mc",
+        "question": "Ni irihe jambo ritangira na 'B'?",
+        "correctAnswer": "Bakuru",
+        "options": [
+          "Bakuru",
+          "Amata",
+          "Inzu",
+          "Umuntu"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Bakuru\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 1,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a2",
+        "type": "mc",
+        "question": "Ni irihe jambo ritangira na 'K'?",
+        "correctAnswer": "Keza",
+        "options": [
+          "Dore",
+          "Gato",
+          "Keza",
+          "Bakora"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Keza\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 2,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a3",
+        "type": "typing",
+        "prompt": "Andika inyuguti irangira ijambo 'INKA':",
+        "correctAnswer": "A",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: A",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 3,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a4",
+        "type": "mc",
+        "question": "Ni ikihe gice cy'ijambo 'GATO' gitangira na 'G'?",
+        "correctAnswer": "Gato ritangira na G",
+        "options": [
+          "Gato ritangira na G",
+          "Gato ritangira na A",
+          "Gato ritangira na T",
+          "Gato ritangira na O"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Gato ritangira na G\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 4,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      }
+    ],
+    "createdAt": "2026-02-22T17:58:57.592Z",
+    "estimatedDuration": 20,
+    "difficultyLevel": "beginner",
+    "prerequisites": [
+      "Inyuguti n'Inyajwi: A, E, I, O, U"
+    ],
+    "nextLesson": {
+      "id": "K63JJOs51kQC9XOBQKFi",
+      "title": "Inkonsonanti: M, N, R, S",
+      "order": 8
+    },
+    "objectives": [
+      "Kwamenya inyuguti z'inkonsonanti B, D, G, K",
+      "Kwumva ijwi rya buri nyuguti y'inkonsonanti",
+      "Kwandika neza inyuguti z'inkonsonanti",
+      "Gukora amagambo ukoresha inyuguti z'inkonsonanti"
+    ],
+    "learningOutcomes": {
+      "cognitive": "Kwamenya inyuguti z'inkonsonanti",
+      "psychomotor": "Kwandika inyuguti z'inkonsonanti",
+      "affective": "Kunda gukoresha inyuguti z'inkonsonanti"
+    },
+    "metadata": {
+      "enhanced": true,
+      "enhancedAt": "2026-03-01T10:16:41.968Z",
+      "version": "2.0",
+      "tags": [
+        "Inkonsonanti",
+        "beginner",
+        "enhanced",
+        "interactive",
+        "guided"
+      ],
+      "assessmentStrategy": {
+        "type": "formative",
+        "weight": "participation",
+        "feedback": "immediate",
+        "retryAttempts": 3
+      },
+      "adaptiveContent": {
+        "difficultyAdjustment": true,
+        "personalizedHints": true,
+        "scaffolding": true,
+        "timeBasedFeedback": true
+      },
+      "engagementFeatures": {
+        "progressVisualization": true,
+        "achievementUnlocking": true,
+        "streakTracking": true,
+        "gamification": true
+      }
+    }
+  },
+  {
+    "id": "K63JJOs51kQC9XOBQKFi",
+    "order": 8,
+    "module": "Inkonsonanti",
+    "moduleColor": "#3B82F6",
+    "title": "🔡 Inkonsonanti: M, N, R, S",
+    "subtitle": "Menya inyuguti z'inkonsonanti z'ikindi",
+    "description": "Uyu murongo utegura kumenya inyuguti z'inkonsonanti M, N, R, S. Uzajya uzi ijwi rizo no kuzikora mu magambo.",
+    "duration": "12 min",
+    "level": "1",
+    "difficulty": "Beginner",
+    "enabled": true,
+    "videoUrl": "",
+    "activities": [
+      {
+        "id": "a1",
+        "type": "typing",
+        "prompt": "Andika inyuguti itangira ijambo 'MANA':",
+        "correctAnswer": "M",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: M",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 1,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a2",
+        "type": "mc",
+        "question": "Ni irihe jambo ritangira na 'N'?",
+        "correctAnswer": "Neza",
+        "options": [
+          "Neza",
+          "Mama",
+          "Reba",
+          "Sura"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Neza\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 2,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a3",
+        "type": "mc",
+        "question": "Ni irihe jambo rirangira na 'R' mu Kinyarwanda?",
+        "correctAnswer": "Umuryango",
+        "options": [
+          "Inzu",
+          "Umuryango",
+          "Amata",
+          "Bakuru"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Umuryango\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 3,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a4",
+        "type": "typing",
+        "prompt": "Andika inyuguti itangira ijambo 'SOMA':",
+        "correctAnswer": "S",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: S",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 4,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      }
+    ],
+    "createdAt": "2026-02-22T17:58:57.592Z",
+    "estimatedDuration": 20,
+    "difficultyLevel": "beginner",
+    "prerequisites": [
+      "Inyuguti n'Inyajwi: A, E, I, O, U"
+    ],
+    "nextLesson": {
+      "id": "YnSFC2ECyCyjUriH8jUa",
+      "title": "Inkonsonanti: F, H, J, L",
+      "order": 9
+    },
+    "objectives": [
+      "Kwamenya inyuguti z'inkonsonanti M, N, R, S",
+      "Kwumva ijwi rya buri nyuguti y'inkonsonanti",
+      "Kwandika neza inyuguti z'inkonsonanti",
+      "Gukora amagambo ukoresha inyuguti z'inkonsonanti"
+    ],
+    "learningOutcomes": {
+      "cognitive": "Kwamenya inyuguti z'inkonsonanti",
+      "psychomotor": "Kwandika inyuguti z'inkonsonanti",
+      "affective": "Kunda gukoresha inyuguti z'inkonsonanti"
+    },
+    "metadata": {
+      "enhanced": true,
+      "enhancedAt": "2026-03-01T10:16:41.968Z",
+      "version": "2.0",
+      "tags": [
+        "Inkonsonanti",
+        "beginner",
+        "enhanced",
+        "interactive",
+        "guided"
+      ],
+      "assessmentStrategy": {
+        "type": "formative",
+        "weight": "participation",
+        "feedback": "immediate",
+        "retryAttempts": 3
+      },
+      "adaptiveContent": {
+        "difficultyAdjustment": true,
+        "personalizedHints": true,
+        "scaffolding": true,
+        "timeBasedFeedback": true
+      },
+      "engagementFeatures": {
+        "progressVisualization": true,
+        "achievementUnlocking": true,
+        "streakTracking": true,
+        "gamification": true
+      }
+    }
+  },
+  {
+    "id": "WgTSJBS0fC6nxbpSA4R6",
+    "order": 11,
+    "module": "Amagambo",
+    "moduleColor": "#3B82F6",
+    "title": "📝 Ibyondo: Ma, Me, Mi, Mo, Mu",
+    "subtitle": "Menya gukora amagambo ukoresha ibyondo",
+    "description": "Uyu murongo utegura kumenya gukora amagambo ukoresha ibyondo 'Ma, Me, Mi, Mo, Mu'. Uzajya uzi gukora amagambo atandukanye.",
+    "duration": "12 min",
+    "level": "2",
+    "difficulty": "Beginner",
+    "enabled": true,
+    "videoUrl": "",
+    "activities": [
+      {
+        "id": "a1",
+        "type": "mc",
+        "question": "Ni ikihe gice cy'ijambo 'MAMA'?",
+        "correctAnswer": "Ma + Ma",
+        "options": [
+          "Ma + Ma",
+          "Me + Mi",
+          "Mo + Mu",
+          "Mi + Ma"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Ma + Ma\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 1,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a2",
+        "type": "typing",
+        "prompt": "Andika uko uvuga: M + O =",
+        "correctAnswer": "Mo",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: Mo",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 2,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a3",
+        "type": "mc",
+        "question": "Mu ijambo 'IMIRIMO', ibyondo biri ari ibihe?",
+        "correctAnswer": "I + Mi + ri + Mo",
+        "options": [
+          "I + Mi + ri + Mo",
+          "Im + ir + im + o",
+          "I + miri + mo",
+          "Imir + imo"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"I + Mi + ri + Mo\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 3,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      }
+    ],
+    "createdAt": "2026-02-22T17:58:57.593Z",
+    "estimatedDuration": 25,
+    "difficultyLevel": "intermediate",
+    "prerequisites": [
+      "Inyuguti n'Inyajwi: A, E, I, O, U"
+    ],
+    "nextLesson": {
+      "id": "u6aM9Xl3zzxkcXNvtOe7",
+      "title": "Amagambo 2 Ibyondo",
+      "order": 12
+    },
+    "objectives": [
+      "Kwamenya ibyondo 'Ma, Me, Mi, Mo, Mu'",
+      "Gukora amagambo ukoresha ibyondo",
+      "Kwandika amagambo neza",
+      "Kumva amagambo atandukanye"
+    ],
+    "learningOutcomes": {
+      "cognitive": "Kwamenya ibyondo no gukora amagambo",
+      "psychomotor": "Kwandika no gusoma amagambo",
+      "affective": "Kunda gukora amagambo"
+    },
+    "metadata": {
+      "enhanced": true,
+      "enhancedAt": "2026-03-01T10:16:41.969Z",
+      "version": "2.0",
+      "tags": [
+        "Amagambo",
+        "intermediate",
+        "enhanced",
+        "interactive",
+        "guided"
+      ],
+      "assessmentStrategy": {
+        "type": "formative",
+        "weight": "participation",
+        "feedback": "immediate",
+        "retryAttempts": 3
+      },
+      "adaptiveContent": {
+        "difficultyAdjustment": true,
+        "personalizedHints": true,
+        "scaffolding": true,
+        "timeBasedFeedback": true
+      },
+      "engagementFeatures": {
+        "progressVisualization": true,
+        "achievementUnlocking": true,
+        "streakTracking": true,
+        "gamification": true
+      }
+    }
+  },
+  {
+    "id": "u6aM9Xl3zzxkcXNvtOe7",
+    "order": 12,
+    "module": "Amagambo",
+    "moduleColor": "#3B82F6",
+    "title": "📝 Amagambo ya 2 Ibyondo",
+    "subtitle": "Menya gukora amagambo ukoresha ibyondo bibiri",
+    "description": "Uyu murongo utegura kumenya gukora amagambo ukoresha ibyondo bibiri. Uzajya uzi gukora amagambo atandukanye.",
+    "duration": "14 min",
+    "level": "2",
+    "difficulty": "Beginner",
+    "enabled": true,
+    "videoUrl": "",
+    "activities": [
+      {
+        "id": "a1",
+        "type": "mc",
+        "question": "Ijambo 'INZU' rigizwe n'ibyondo bingahe?",
+        "correctAnswer": "Ebyiri",
+        "options": [
+          "Imwe",
+          "Ebyiri",
+          "Eshatu",
+          "Ine"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Ebyiri\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 1,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a2",
+        "type": "typing",
+        "prompt": "Andika ijambo risobanura 'aho utuye' mu Kinyarwanda:",
+        "correctAnswer": "inzu",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: inzu",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 2,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a3",
+        "type": "mc",
+        "question": "Ni irihe jambo rigizwe n'ibyondo ebyiri?",
+        "correctAnswer": "MAMA",
+        "options": [
+          "MAMA",
+          "UMUNTU",
+          "AMAGAMBO",
+          "ITERAMBERE"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"MAMA\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 3,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a4",
+        "type": "typing",
+        "prompt": "Andika ijambo risobanura 'abantu b'imfura':",
+        "correctAnswer": "abana",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: abana",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 4,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      }
+    ],
+    "createdAt": "2026-02-22T17:58:57.595Z",
+    "estimatedDuration": 25,
+    "difficultyLevel": "intermediate",
+    "prerequisites": [
+      "Ibyondo: Ma, Me, Mi, Mo, Mu"
+    ],
+    "nextLesson": {
+      "id": "R3xkyxzkC2yupJ3I71ct",
+      "title": "Interuro Ngufi",
+      "order": 13
+    },
+    "objectives": [
+      "Kwamenya gukora amagambo ukoresha ibyondo bibiri",
+      "Gukora amagambo ukoresha ibyondo bibiri",
+      "Kwandika amagambo neza",
+      "Kumva amagambo atandukanye"
+    ],
+    "learningOutcomes": {
+      "cognitive": "Kwamenya gukora amagambo ukoresha ibyondo",
+      "psychomotor": "Kwandika no gusoma amagambo",
+      "affective": "Kunda gukora amagambo"
+    },
+    "metadata": {
+      "enhanced": true,
+      "enhancedAt": "2026-03-01T10:16:41.969Z",
+      "version": "2.0",
+      "tags": [
+        "Amagambo",
+        "intermediate",
+        "enhanced",
+        "interactive",
+        "guided"
+      ],
+      "assessmentStrategy": {
+        "type": "formative",
+        "weight": "participation",
+        "feedback": "immediate",
+        "retryAttempts": 3
+      },
+      "adaptiveContent": {
+        "difficultyAdjustment": true,
+        "personalizedHints": true,
+        "scaffolding": true,
+        "timeBasedFeedback": true
+      },
+      "engagementFeatures": {
+        "progressVisualization": true,
+        "achievementUnlocking": true,
+        "streakTracking": true,
+        "gamification": true
+      }
+    }
+  },
+  {
+    "id": "tb4DeT5tfzTK9hvcnWmY",
+    "order": 14,
+    "module": "Imibare",
+    "moduleColor": "#F59E0B",
+    "title": "🔢 Imibare 1-5: Kubara no Kwandika",
+    "subtitle": "Menya imibare y'ibanze",
+    "description": "Uyu murongo utegura kumenya imibare kuva kuri 1 kugeza 5. Uzajya uzi kubara, gusoma no kwandika imibare.",
+    "duration": "10 min",
+    "level": "2",
+    "difficulty": "Beginner",
+    "enabled": true,
+    "videoUrl": "",
+    "activities": [
+      {
+        "id": "a1",
+        "type": "mc",
+        "question": "Ni iyihe nimero ivugwa ngo 'EBYIRI'?",
+        "correctAnswer": "2",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "instruction": "🤔 Hitamo igisanzwe. Reka kureba neza amahitamo yose munsi y'ibyo usabwa. Wibaza niba ufite ibyo wumenya.",
+        "explanation": "📚 Igisanzwe ni \"2\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 1,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a2",
+        "type": "typing",
+        "prompt": "Andika mu magambo nimero '3' mu Kinyarwanda:",
+        "correctAnswer": "eshatu",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: eshatu",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 2,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a3",
+        "type": "mc",
+        "question": "'ESHANU' ni nimero iyihe?",
+        "correctAnswer": "5",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"5\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 3,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a4",
+        "type": "typing",
+        "prompt": "Andika nimero '1' mu Kinyarwanda:",
+        "correctAnswer": "imwe",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: imwe",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 4,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      }
+    ],
+    "createdAt": "2026-02-22T17:58:57.596Z",
+    "estimatedDuration": 25,
+    "difficultyLevel": "beginner",
+    "prerequisites": [],
+    "nextLesson": {
+      "id": "TVi9wWFiLED8yJgD9qYr",
+      "title": "Imibare 6 kugeza 10",
+      "order": 15
+    },
+    "objectives": [
+      "Kwamenya imibare 1, 2, 3, 4, 5",
+      "Kubara ibintu kuva kuri 1 kugeza 5",
+      "Kwandika imibare 1-5 neza",
+      "Gukoresha imibare mu buzima bwa buri munsi"
+    ],
+    "learningOutcomes": {
+      "cognitive": "Kwamenya imibare no gukurikirana",
+      "psychomotor": "Kubara no kwandika imibare",
+      "affective": "Kunda gukoresha imibare"
+    },
+    "metadata": {
+      "enhanced": true,
+      "enhancedAt": "2026-03-01T10:16:41.970Z",
+      "version": "2.0",
+      "tags": [
+        "Imibare",
+        "beginner",
+        "enhanced",
+        "interactive",
+        "guided"
+      ],
+      "assessmentStrategy": {
+        "type": "formative",
+        "weight": "participation",
+        "feedback": "immediate",
+        "retryAttempts": 3
+      },
+      "adaptiveContent": {
+        "difficultyAdjustment": true,
+        "personalizedHints": true,
+        "scaffolding": true,
+        "timeBasedFeedback": true
+      },
+      "engagementFeatures": {
+        "progressVisualization": true,
+        "achievementUnlocking": true,
+        "streakTracking": true,
+        "gamification": true
+      }
+    }
+  },
+  {
+    "id": "TVi9wWFiLED8yJgD9qYr",
+    "order": 15,
+    "module": "Imibare",
+    "moduleColor": "#F59E0B",
+    "title": "🔢 Imibare 6-10: Kubara no Kwandika",
+    "subtitle": "Menya imibare y'ibanze",
+    "description": "Uyu murongo utegura kumenya imibare kuva kuri 6 kugeza 10. Uzajya uzi kubara, gusoma no kwandika imibare.",
+    "duration": "10 min",
+    "level": "2",
+    "difficulty": "Beginner",
+    "enabled": true,
+    "videoUrl": "",
+    "activities": [
+      {
+        "id": "a1",
+        "type": "mc",
+        "question": "Ni iyihe nimero ivugwa ngo 'ICUMI'?",
+        "correctAnswer": "10",
+        "options": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "instruction": "🤔 Hitamo igisanzwe. Reka kureba neza amahitamo yose munsi y'ibyo usabwa. Wibaza niba ufite ibyo wumenya.",
+        "explanation": "📚 Igisanzwe ni \"10\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 1,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a2",
+        "type": "typing",
+        "prompt": "Andika mu magambo nimero '7':",
+        "correctAnswer": "karindwi",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: karindwi",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 2,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a3",
+        "type": "mc",
+        "question": "'UMUNANI' ni nimero iyihe?",
+        "correctAnswer": "8",
+        "options": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"8\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 3,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a4",
+        "type": "typing",
+        "prompt": "Andika mu magambo nimero '6':",
+        "correctAnswer": "gatandatu",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: gatandatu",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 4,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      }
+    ],
+    "createdAt": "2026-02-22T17:58:57.597Z",
+    "estimatedDuration": 25,
+    "difficultyLevel": "beginner",
+    "prerequisites": [
+      "Imibare 1-5: Kubara no Kwandika"
+    ],
+    "nextLesson": {
+      "id": "38ljASvySxYeza702Djw",
+      "title": "Imibare 11 kugeza 20",
+      "order": 16
+    },
+    "objectives": [
+      "Kwamenya imibare 6, 7, 8, 9, 10",
+      "Kubara ibintu kuva kuri 6 kugeza 10",
+      "Kwandika imibare 6-10 neza",
+      "Gukoresha imibare mu buzima bwa buri munsi"
+    ],
+    "learningOutcomes": {
+      "cognitive": "Kwamenya imibare no gukurikirana",
+      "psychomotor": "Kubara no kwandika imibare",
+      "affective": "Kunda gukoresha imibare"
+    },
+    "metadata": {
+      "enhanced": true,
+      "enhancedAt": "2026-03-01T10:16:41.970Z",
+      "version": "2.0",
+      "tags": [
+        "Imibare",
+        "beginner",
+        "enhanced",
+        "interactive",
+        "guided"
+      ],
+      "assessmentStrategy": {
+        "type": "formative",
+        "weight": "participation",
+        "feedback": "immediate",
+        "retryAttempts": 3
+      },
+      "adaptiveContent": {
+        "difficultyAdjustment": true,
+        "personalizedHints": true,
+        "scaffolding": true,
+        "timeBasedFeedback": true
+      },
+      "engagementFeatures": {
+        "progressVisualization": true,
+        "achievementUnlocking": true,
+        "streakTracking": true,
+        "gamification": true
+      }
+    }
+  },
+  {
+    "id": "uGpwcRNk6S2Eut1PauJ0",
+    "order": 17,
+    "module": "Imibare",
+    "moduleColor": "#F59E0B",
+    "title": "➕ Kongeranya 1-5: Gukora Imibare",
+    "subtitle": "Menya gukongeranya imibare y'ibanze",
+    "description": "Uyu murongo utegura kumenya gukongeranya imibare kuva kuri 1 kugeza 5. Uzajya uzi gukora no gusubiza ibibazo bya kongeranya.",
+    "duration": "12 min",
+    "level": "2",
+    "difficulty": "Beginner",
+    "enabled": true,
+    "videoUrl": "",
+    "activities": [
+      {
+        "id": "a1",
+        "type": "mc",
+        "question": "2 + 2 =?",
+        "correctAnswer": "4",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "instruction": "🧮 Bara neza niba ukeneye ifatabuguzi. Hitamo igisanzwe kandi wibaze niba ibisubizo byibuze.",
+        "explanation": "📚 Igisanzwe ni \"4\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 1,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a2",
+        "type": "typing",
+        "prompt": "Bara: 3 + 2 = ?",
+        "correctAnswer": "5",
+        "instruction": "🔢 Bara neza niba ukeneye ifatabuguzi. Koresha imbaraga zawe zo kubara. Reka kureba neza ibyo usabwa.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: 5",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 2,
+        "estimatedTime": 30,
+        "difficulty": "easy",
+        "points": 10
+      },
+      {
+        "id": "a3",
+        "type": "mc",
+        "question": "1 + 4 =?",
+        "correctAnswer": "5",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "instruction": "🧮 Bara neza niba ukeneye ifatabuguzi. Hitamo igisanzwe kandi wibaze niba ibisubizo byibuze.",
+        "explanation": "📚 Igisanzwe ni \"5\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 3,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a4",
+        "type": "typing",
+        "prompt": "Kongeranya: 2 + 1 = ?",
+        "correctAnswer": "3",
+        "instruction": "📝 Kora iyi nkuru neza. Reka kureba neza ibyo usabwa kandi ukore neza.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: 3",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 4,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      }
+    ],
+    "createdAt": "2026-02-22T17:58:57.597Z",
+    "estimatedDuration": 30,
+    "difficultyLevel": "beginner",
+    "prerequisites": [
+      "Imibare 6-10: Kubara no Kwandika"
+    ],
+    "nextLesson": {
+      "id": "3Mm0maMLhISVGbRutjNr",
+      "title": "Kongeranya 6–10",
+      "order": 18
+    },
+    "objectives": [
+      "Kwimenya gukongeranya",
+      "Gukora imibare y'umune kuva kuri 1-5",
+      "Kubara ibintu byongeranye",
+      "Gukoresha kongeranya mu buzima bwa buri munsi"
+    ],
+    "learningOutcomes": {
+      "cognitive": "Kwimenya gukongeranya no gukurikirana",
+      "psychomotor": "Gukora no kwandika ibisubizo",
+      "affective": "Kunda gukora imibare"
+    },
+    "metadata": {
+      "enhanced": true,
+      "enhancedAt": "2026-03-01T10:16:41.971Z",
+      "version": "2.0",
+      "tags": [
+        "Imibare",
+        "beginner",
+        "enhanced",
+        "interactive",
+        "guided"
+      ],
+      "assessmentStrategy": {
+        "type": "formative",
+        "weight": "participation",
+        "feedback": "immediate",
+        "retryAttempts": 3
+      },
+      "adaptiveContent": {
+        "difficultyAdjustment": true,
+        "personalizedHints": true,
+        "scaffolding": true,
+        "timeBasedFeedback": true
+      },
+      "engagementFeatures": {
+        "progressVisualization": true,
+        "achievementUnlocking": true,
+        "streakTracking": true,
+        "gamification": true
+      }
+    }
+  },
+  {
+    "id": "eA2wGe61AvpmC4ziL5MO",
+    "order": 27,
+    "moduleColor": "#EC4899",
+    "title": "🔷 Imishusho Yindi: Ibice Bitatu",
+    "subtitle": "Menya imishusho y'ibanze",
+    "description": "Uyu murongo utegura kumenya imishusho y'ibanze. Uzajya uzi imishusho ifite ibice bitatu n'izina ryazo.",
+    "duration": "12 min",
+    "level": "2",
+    "difficulty": "Intermediate",
+    "enabled": true,
+    "videoUrl": "",
+    "activities": [
+      {
+        "id": "a1",
+        "type": "mc",
+        "question": "Ishusho ifite ibonga bitanu yitwa iki ku Cyongereza?",
+        "correctAnswer": "Pentagon",
+        "options": [
+          "Pentagon",
+          "Hexagon",
+          "Octagon",
+          "Triangle"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Pentagon\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 1,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a2",
+        "type": "mc",
+        "question": "Ishusho y'ubushi (honeycomb) ifite ibonga bingahe?",
+        "correctAnswer": "Gatandatu",
+        "options": [
+          "Ine",
+          "Eshanu",
+          "Gatandatu",
+          "Karindwi"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Gatandatu\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 2,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a3",
+        "type": "typing",
+        "prompt": "Andika ijambo ku Cyongereza risobanura 'ishusho ifite ibonga icumi n'ebyiri':",
+        "correctAnswer": "dodecagon",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: dodecagon",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 3,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      }
+    ],
+    "createdAt": "2026-02-22T17:58:57.599Z",
+    "module": "Amashusho n'Amabara",
+    "updatedAt": "2026-03-01T09:38:58.577Z",
+    "estimatedDuration": 15,
+    "difficultyLevel": "beginner",
+    "prerequisites": [],
+    "nextLesson": {
+      "id": "q6f94mGPOzEKd20rXxFX",
+      "title": "Amabara y'Ibanze",
+      "order": 28
+    },
+    "objectives": [
+      "Kwamenya imishusho ifite ibice bitatu",
+      "Kwumva izina ry'imishusho",
+      "Kwerekana imishusho ifite ibice bitatu",
+      "Gusesengura imishusho mu bintu bya hafi"
+    ],
+    "learningOutcomes": {
+      "cognitive": "Kwamenya imishusho n'izina ryazo",
+      "psychomotor": "Kwerekana no gukurikira imishusho",
+      "affective": "Kunda imishusho"
+    },
+    "metadata": {
+      "enhanced": true,
+      "enhancedAt": "2026-03-01T10:16:41.972Z",
+      "version": "2.0",
+      "tags": [
+        "Amashusho n'Amabara",
+        "beginner",
+        "enhanced",
+        "interactive",
+        "guided"
+      ],
+      "assessmentStrategy": {
+        "type": "formative",
+        "weight": "participation",
+        "feedback": "immediate",
+        "retryAttempts": 3
+      },
+      "adaptiveContent": {
+        "difficultyAdjustment": true,
+        "personalizedHints": true,
+        "scaffolding": true,
+        "timeBasedFeedback": true
+      },
+      "engagementFeatures": {
+        "progressVisualization": true,
+        "achievementUnlocking": true,
+        "streakTracking": true,
+        "gamification": true
+      }
+    }
+  },
+  {
+    "id": "q6f94mGPOzEKd20rXxFX",
+    "order": 28,
+    "moduleColor": "#EC4899",
+    "title": "🎨 Amabara y'Ibanze: Umutuku, Ubururu, Utsutsa",
+    "subtitle": "Menya amabara y'ibanze",
+    "description": "Uyu murongo utegura kumenya amabara y'ibanze. Uzajya uzi amabara atandukanye n'izina ryazo mu Kinyarwanda.",
+    "duration": "10 min",
+    "level": "1",
+    "difficulty": "Beginner",
+    "enabled": true,
+    "videoUrl": "",
+    "activities": [
+      {
+        "id": "a1",
+        "type": "mc",
+        "question": "'Umutuku' ni iki?",
+        "correctAnswer": "Red (umutuku)",
+        "options": [
+          "Red (umutuku)",
+          "Blue (ubururu)",
+          "Green (icyatsi)",
+          "Yellow (umuhondo)"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Red (umutuku)\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 1,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a2",
+        "type": "typing",
+        "prompt": "Andika ijambo mu Kinyarwanda risobanura 'Green':",
+        "correctAnswer": "icyatsi",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: icyatsi",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 2,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a3",
+        "type": "mc",
+        "question": "Umugozi w'ibarwa ni irihe bara?",
+        "correctAnswer": "Umuhondo",
+        "options": [
+          "Umutuku",
+          "Ubururu",
+          "Umuhondo",
+          "Umweru"
+        ],
+        "instruction": "📖 Soma neza ibyo usabwa kandi hitamo igisanzwe.",
+        "explanation": "📚 Igisanzwe ni \"Umuhondo\". Reka kureba neza niba ufite ibyo wumenya. Komeza uko ureba!",
+        "hint": "💡 Reka kureba neza amahitamo yose. Wibaza niba igisanzwe. Koresha ibyo wamenya.",
+        "examples": [
+          "Reka kureba neza amahitamo",
+          "Hitamo igisanzwe"
+        ],
+        "order": 3,
+        "estimatedTime": 20,
+        "difficulty": "medium",
+        "points": 10
+      },
+      {
+        "id": "a4",
+        "type": "typing",
+        "prompt": "Andika ijambo mu Kinyarwanda risobanura 'Blue':",
+        "correctAnswer": "ubururu",
+        "instruction": "📝 Andika neza ijwi ridasanzwe. Reka kureba neza nyuguti uzakandika. Koresha imbaraga zo kwandika.",
+        "hint": "💡 Reka kureba neza nyuguti zizewe. Koresha imbaraga zo kwandika. Wibaza niba ufite ibyo wumenya.",
+        "feedback": "👍 Wakore neza! Komeza uko ureba. Uragihe kuba wize!",
+        "examples": [
+          "Reka: ubururu",
+          "Andika neza ijwi ridasanzwe"
+        ],
+        "order": 4,
+        "estimatedTime": 30,
+        "difficulty": "medium",
+        "points": 10
+      }
+    ],
+    "createdAt": "2026-02-22T17:58:57.600Z",
+    "module": "Amashusho n'Amabara",
+    "updatedAt": "2026-03-01T09:38:58.784Z",
+    "estimatedDuration": 18,
+    "difficultyLevel": "beginner",
+    "prerequisites": [],
+    "nextLesson": {
+      "id": "cd9LCRnVMop5BBaqsTdg",
+      "title": "Ingano z'Ibintu",
+      "order": 29
+    },
+    "objectives": [
+      "Kwamenya amabara y'ibanze: umutuku, ubururu, utsutsa",
+      "Kwumva izina ry'amabara",
+      "Kwerekana amabara y'ibanze",
+      "Gusesengura amabara mu bintu bya hafi"
+    ],
+    "learningOutcomes": {
+      "cognitive": "Kwamenya amabara n'izina ryazo",
+      "psychomotor": "Kwerekana no gukurikira amabara",
+      "affective": "Kunda amabara"
+    },
+    "metadata": {
+      "enhanced": true,
+      "enhancedAt": "2026-03-01T10:16:41.973Z",
+      "version": "2.0",
+      "tags": [
+        "Amashusho n'Amabara",
+        "beginner",
+        "enhanced",
+        "interactive",
+        "guided"
+      ],
+      "assessmentStrategy": {
+        "type": "formative",
+        "weight": "participation",
+        "feedback": "immediate",
+        "retryAttempts": 3
+      },
+      "adaptiveContent": {
+        "difficultyAdjustment": true,
+        "personalizedHints": true,
+        "scaffolding": true,
+        "timeBasedFeedback": true
+      },
+      "engagementFeatures": {
+        "progressVisualization": true,
+        "achievementUnlocking": true,
+        "streakTracking": true,
+        "gamification": true
+      }
+    }
+  }
+]

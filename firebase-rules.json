@@ -1,0 +1,131 @@
+{
+  "rules": {
+    "users": {
+      "$uid": {
+        ".read": "auth != null && auth.uid == $uid",
+        ".write": "auth != null && auth.uid == $uid",
+        "progress": {
+          ".read": "auth != null && auth.uid == $uid",
+          ".write": "auth != null && auth.uid == $uid"
+        },
+        "lessonHistory": {
+          "$lessonId": {
+            ".read": "auth != null && auth.uid == $uid",
+            ".write": "auth != null && auth.uid == $uid",
+            ".validate": "newData.hasChildren(['score', 'passed', 'completedAt'])",
+            "score": {
+              ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 100"
+            },
+            "passed": {
+              ".validate": "newData.isBoolean()"
+            },
+            "completedAt": {
+              ".validate": "newData.isString()"
+            }
+          }
+        },
+        "practiceHistory": {
+          "$practiceId": {
+            ".read": "auth != null && auth.uid == $uid",
+            ".write": "auth != null && auth.uid == $uid",
+            ".validate": "newData.hasChildren(['score', 'passed', 'completedAt'])",
+            "score": {
+              ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 100"
+            },
+            "passed": {
+              ".validate": "newData.isBoolean()"
+            },
+            "completedAt": {
+              ".validate": "newData.isString()"
+            },
+            "attempts": {
+              ".validate": "newData.isNumber() && newData.val() >= 1"
+            }
+          }
+        },
+        "profile": {
+          ".read": "auth != null && auth.uid == $uid",
+          ".write": "auth != null && auth.uid == $uid",
+          "displayName": {
+            ".validate": "newData.isString() && newData.val().length > 0 && newData.val().length <= 50"
+          },
+          "level": {
+            ".validate": "newData.isNumber() && newData.val() >= 1 && newData.val() <= 5"
+          },
+          "totalPoints": {
+            ".validate": "newData.isNumber() && newData.val() >= 0"
+          },
+          "streak": {
+            ".validate": "newData.isNumber() && newData.val() >= 0"
+          }
+        }
+      }
+    },
+    "lessons": {
+      ".read": "auth != null",
+      ".write": false,
+      "$lessonId": {
+        ".read": "auth != null",
+        ".write": false,
+        ".validate": "newData.hasChildren(['title', 'order'])",
+        "title": {
+          ".validate": "newData.isString() && newData.val().length > 0"
+        },
+        "order": {
+          ".validate": "newData.isNumber() && newData.val() >= 0"
+        },
+        "difficulty": {
+          ".validate": "newData.isString() && ['easy', 'medium', 'hard'].indexOf(newData.val()) >= 0"
+        },
+        "enabled": {
+          ".validate": "newData.isBoolean()"
+        },
+        "module": {
+          ".validate": "newData.isString() && newData.val().length > 0"
+        }
+      }
+    },
+    "practice": {
+      ".read": "auth != null",
+      ".write": false,
+      "$practiceId": {
+        ".read": "auth != null",
+        ".write": false,
+        ".validate": "newData.hasChildren(['title', 'type', 'difficulty'])",
+        "title": {
+          ".validate": "newData.isString() && newData.val().length > 0"
+        },
+        "type": {
+          ".validate": "newData.isString() && ['typing', 'audio', 'match'].indexOf(newData.val()) >= 0"
+        },
+        "difficulty": {
+          ".validate": "newData.isString() && ['easy', 'medium', 'hard'].indexOf(newData.val()) >= 0"
+        },
+        "enabled": {
+          ".validate": "newData.isBoolean()"
+        }
+      }
+    },
+    "admin": {
+      ".read": "auth != null && auth.token.admin === true",
+      ".write": "auth != null && auth.token.admin === true"
+    },
+    "analytics": {
+      ".read": "auth != null",
+      ".write": false,
+      "$userId": {
+        ".read": "auth != null && auth.uid == $userId",
+        ".write": false
+      }
+    },
+    "config": {
+      ".read": "auth != null",
+      ".write": "auth != null && auth.token.admin === true",
+      "appSettings": {
+        ".validate": "newData.hasChildren(['version', 'features'])"
+      }
+    },
+    ".read": false,
+    ".write": false
+  }
+}
